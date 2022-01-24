@@ -1,5 +1,4 @@
 /* eslint-disable no-promise-executor-return */
-const { v4 } = require('uuid');
 
 const db = require('../../database');
 
